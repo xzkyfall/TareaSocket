@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaPrograSocket", "TareaPrograSocket\TareaPrograSocket.csproj", "{45593D44-0BBC-479D-940C-75CA2F1BAD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaPrograHebrasCliente", "TareaPrograSocketCliente\TareaPrograHebrasCliente.csproj", "{3AE4270D-C316-4930-B72F-FA30E5464EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45593D44-0BBC-479D-940C-75CA2F1BAD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45593D44-0BBC-479D-940C-75CA2F1BAD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45593D44-0BBC-479D-940C-75CA2F1BAD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45593D44-0BBC-479D-940C-75CA2F1BAD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE4270D-C316-4930-B72F-FA30E5464EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE4270D-C316-4930-B72F-FA30E5464EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE4270D-C316-4930-B72F-FA30E5464EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE4270D-C316-4930-B72F-FA30E5464EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BFEC465-58E1-4293-B9F9-F27183C0A029}
+	EndGlobalSection
+EndGlobal
